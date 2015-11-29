@@ -2,6 +2,7 @@
 <h5>description</h5>
 With GP2U you can see a doctor or allied health professional online via video conference.<br>
 https://itunes.apple.com/de/app/gp2u-telehealth-online-doctors/id625961235?mt=8<br>
+https://play.google.com/store/apps/details?id=com.hugemobile.activity&hl=de<br>
 https://gp2u.com.au
 <h5>techique</h5>
 opentock sdk, geolocation, video contact, login with Facebook, twitter, linkedin, Google+
